@@ -27,7 +27,7 @@ const User = (props)=>{
   )}
 
   User.defaultProps = {
-    old: 1
+   old : 1
   }
 
 export default App;
